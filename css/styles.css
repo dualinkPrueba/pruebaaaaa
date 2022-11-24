@@ -1,0 +1,204 @@
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: monospace;
+    font-size: 14px;
+    margin: 0;
+}
+
+header {
+    width: 95%;
+    margin: auto;
+}
+
+header img, header h1 {
+    float: left;
+    margin-left: 25%;
+}
+
+header img {
+    margin-top: 2%;
+}
+
+a {
+    font-weight: bold;
+}
+
+h1 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+header img {
+    width: 8%;
+}
+
+.contenedor {
+    background-color: #7da0be;
+    padding: 1%;
+    clear: both;
+    display: flex;
+}
+
+
+.item {
+    background-color: #d8d8d8;
+    border-radius: 10px;
+    padding: 0.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 10%;
+}
+
+.item:hover {
+    background-color: #6c7df0a1;
+    color: #000;
+    font-weight: bold;
+}
+
+footer {
+    clear: both;
+    background-color: #2d2d2d;
+    color: white;
+    display: flex;
+    padding: 5%;
+}
+
+footer a {
+    color: white;
+}
+
+footer p {
+    margin-left: 15%;
+}
+
+#principal {
+    display: flex;
+    width: 95%;
+    margin-top: 2%;
+    text-align: justify;
+}
+
+#principal img {
+    width: 55%;
+    margin-left: 25%;
+}
+
+#principal>div {
+    padding: 2%;
+    background-color: #f7f7f7;
+    width: 40%;
+    margin-left: 8%;
+}
+
+#imagenes img {
+    margin-left: 6%;
+    width: 25%;
+    float: left;
+}
+
+.caracteristica {
+    width: 600px;
+    height: 500px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    float: left;
+    background-color: #25282df0;
+    border: 1px black solid;
+    color: white;
+    text-align: center;
+}
+
+.caracteristica p {
+    width: 80%;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.caracteristica img {
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#otraInfo {
+   clear: both; 
+}
+
+#otraInfo div {
+    float: left;
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+
+footer div {
+    width: 20%;
+    margin-left: 10%;
+    float: left;
+}
+
+.img-pequeña {
+    width: 30%;
+}
+
+.texto-color {
+    text-align: center;
+    background-color: #cbcbcb;
+    padding: 2%;
+}
+
+.fondo-azul {
+    background-color: #7da0be;
+    padding: 2%;
+}
+
+.boton-compra {
+    background-color: #ff6a6a;
+    width: 10%;
+    text-align: center;
+}
+
+.boton-compra a {
+    color: white;
+    font-weight: bold;
+}
+
+.centro {
+    clear: both;
+    text-align: center;
+}
+
+.margen {
+    margin-left: 45%;
+}
+
+.margen-pequeño {
+    margin-left: 5%;
+}
+
+.margen-pequeño img {
+    margin-left: 30%;
+}
+
+button {
+    border-radius: 5px;
+    border: 1px black solid;
+    font-weight: bold;
+    padding: 0.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    cursor: pointer;
+}
+
+.a-accesorios {
+    color: #7bc1ea;
+}
+
+.item a {
+    color: #3752b1;
+    text-decoration: none;
+}
+
+.margen2 {
+    margin-left: 42%;
+}
